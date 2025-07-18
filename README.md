@@ -3,10 +3,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F7E017&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Amirhossein+Shokri;Front-end+Developer;JavaScript+%E2%9D%A4%EF%B8%8F+React+%E2%9C%A8+Next.js+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
-<!-- JS Animation GIF -->
+<!-- Full-width JS Coding Yellow GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="JS Developer at work" />
+  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="100%" alt="JavaScript Developer Banner" />
 </p>
+
 
 ---
 
