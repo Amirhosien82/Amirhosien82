@@ -5,7 +5,7 @@
 
 <!-- Full-width JS Coding Yellow GIF -->
 <p align="center">
-  <img src="YOUR_SELECTED_LINK_HERE" width="100%" alt="JavaScript Developer Coding" />
+  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="30%" alt="JavaScript Developer Banner" />
 </p>
 
 
