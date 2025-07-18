@@ -31,12 +31,12 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amirhosien-shokri&show_icons=true&theme=radical&border_radius=15&hide=issues" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirhosien-shokri&theme=radical&border_radius=15" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Amirhosien82&show_icons=true&theme=radical&border_radius=15&hide=issues" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amirhosien82&theme=radical&border_radius=15" height="150" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirhosien-shokri&layout=compact&theme=radical&border_radius=15" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amirhosien82&layout=compact&theme=radical&border_radius=15" height="150" />
 </p>
 
 ---
