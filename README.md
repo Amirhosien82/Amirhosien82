@@ -1,52 +1,63 @@
-<!-- Header Gif -->
+<!-- Animated Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/animated/code.gif" width="100%" alt="JavaScript Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F7E017&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Amirhossein+Shokri;Front-end+Developer;JavaScript+%E2%9D%A4%EF%B8%8F+React+%E2%9C%A8+Next.js+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
-<h1 align="center">Hi there 👋, I'm Amirhossein Shokri</h1>
-<h3 align="center">Front-end Developer | JavaScript Lover | React Enthusiast</h3>
-
----
-
-### 🧑‍💻 About Me
-
-🌱 I’m passionate about building modern, responsive web applications using the latest technologies.
-
-🚀 Always looking to improve and learn new things — currently exploring deeper into **Next.js** and **TypeScript**.
-
-💡 My focus is on writing clean code, reusable components, and creating beautiful UIs.
-
----
-
-### 🛠️ Tech Stack
-
+<!-- JS Animation GIF -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,prisma,git,github,leaflet,recharts,reactquery,authjs" />
+  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="250" alt="JavaScript Dev" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 👨‍💻 About Me
+
+> 🎯 Passionate front-end developer with a love for clean UI and smooth UX  
+> 🛠️ Always exploring modern tools like **Next.js**, **React Query**, and **Tailwind CSS**  
+> 🎨 Obsessed with building beautiful, functional, and fast web apps  
+> 🚀 Always learning — always building
+
+---
+
+## 🚀 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amirhosien-shokri&show_icons=true&theme=tokyonight" alt="amirhosien-shokri" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirhosien-shokri&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,git,github,prisma,leaflet,recharts,reactquery,authjs&perline=8" />
 </p>
 
 ---
 
-### 🌐 Connect With Me
+## 📈 GitHub Stats
 
-<!-- Optional - Fill in if you want -->
 <p align="center">
-  <a href="mailto:your_email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=amirhosien-shokri&show_icons=true&theme=radical&border_radius=15&hide=issues" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirhosien-shokri&theme=radical&border_radius=15" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirhosien-shokri&layout=compact&theme=radical&border_radius=15" height="150" />
 </p>
 
 ---
 
-> 🎯 "Code is like humor. When you have to explain it, it’s bad." — Cory House
+## 🎯 Fun Facts
+
+- 🧠 Currently learning: `AI-powered frontends`, `Next.js App Router`, and `Web Animations`
+- 📦 Favorite stack: `React + Tailwind + TypeScript + Prisma`
+- 🖤 I love debugging & performance optimization
+
+---
+
+## 📬 Contact Me
+
+<p align="center">
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/amirhosien-shokri"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=footer"/>
+</p>
