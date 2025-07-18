@@ -4,11 +4,9 @@
 </p>
 
 <!-- Full-width JS Coding Yellow GIF -->
-<!-- Full-width JS Yellow Coding GIF -->
 <p align="center">
-  <img src="https://media.tenor.com/images/15967244f5c1e8cd7c3f5e0a8e8543cd/raw" width="100%" alt="JavaScript coding developer" />
+  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="30%" alt="JavaScript Developer Banner" />
 </p>
-
 
 
 ---
