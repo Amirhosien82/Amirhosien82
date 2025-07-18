@@ -5,7 +5,7 @@
 
 <!-- JS Animation GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="250" alt="JavaScript Dev" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="JS Developer at work" />
 </p>
 
 ---
